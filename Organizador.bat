@@ -1,6 +1,6 @@
 @echo off
 :: 1. Entramos a la carpeta real del proyecto
-cd /d "C:\Users\halo_\OneDrive\Desktop\VS Code proyectos\Autoamtizaciones"
+cd /d "C:\Users"
 
 :: 2. Activamos tu entorno virtual
 call ".\env\Scripts\activate"
